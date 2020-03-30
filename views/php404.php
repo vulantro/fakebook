@@ -233,7 +233,7 @@ h4{
         <div class="row">
             <div class="col-md-12 ">
                 <div class="error-text">
-                    <h1 class="error">404 Error</h1>
+                    <h1 class="error">404 Hiba</h1>
                     <div class="im-sheep">
                         <div class="top">
                             <div class="body"></div>
@@ -251,7 +251,7 @@ h4{
                             <div class="im-leg"></div>
                         </div>
                     </div>
-                    <h4>Oops! This page Could Not Be Found!</h4>
+                    <h4>Oops! This oldal nem Could Not Be Found!</h4>
                     <p>Sorry bit the page you are looking for does not exist, have been removed or name changed.</p>
                     <a href="/login" class="btn btn-primary btn-round">Go to homepage</a>
                 </div>

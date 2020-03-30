@@ -6,6 +6,12 @@ if (isset($_SESSION["user_id"]) && $_SESSION["user_id"] != '')
   redirect('/');
   exit();
 }
+
+
+
+
+
+
 if (isset($_POST["username"]) && isset($_POST["password"]))
 {
   $pass = $_POST["password"];
