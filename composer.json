@@ -1,0 +1,14 @@
+{
+    "require": {
+        "delight-im/auth": "^8.1",
+        "delight-im/git-scraper": "^1.0",
+        "chillerlan/php-qrcode": "^3.2",
+        "delight-im/router": "^3.1",
+        "delight-im/file-upload": "^1.2",
+        "delight-im/temporal": "^1.2",
+        "delight-im/str": "^2.4",
+        "monolog/monolog": "^2.0",
+        "graze/dal": "^0.1.1",
+        "phpmailer/phpmailer": "^6.1"
+    }
+}

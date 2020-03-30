@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="node_modules/tests-always-included-password-strength-4f7f8c0/lib/password-strength.js">
+    </script>
+    <script>
+        $(function() {
+            // Create the instance that can be used immediately for strength tests
+            window.passwordStrength = new PasswordStrength();
+
+            // Add additional files that improve the results
+            $.getJSON("node_modules/tests-always-included-password-strength-4f7f8c0/data/common-passwords.json", function(data) {
+                window.passwordStrength.addCommonPasswords(data);
+            });
+            $.getJSON("node_modules/tests-always-included-password-strength-4f7f8c0/data/trigraphs.json", function(data) {
+                window.passwordStrength.addCommonPasswords(data);
+            });
+        });
+        if (window.passwordStrength) {
+            strength = window.passwordStrength.check("abcd1234");
+
+            if (strength.strengthCode.indexOf('WEAK') >= 0) {
+                alert("Your password is too weak.");
+            }
+        }
+    </script>
+
+
+</body>
+
+</html>

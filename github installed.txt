@@ -1,0 +1,11 @@
+https://github.com/delight-im/PHP-GitScraper
+https://github.com/chillerlan/php-qrcode
+https://github.com/delight-im/PHP-Router
+https://github.com/delight-im/PHP-FileUpload
+https://github.com/delight-im/Weather
+https://github.com/delight-im/FreeGeoDB
+https://github.com/delight-im/PHP-Temporal
+https://github.com/delight-im/PHP-Str
+https://github.com/Seldaek/monolog
+https://github.com/graze/dal
+https://github.com/PHPMailer/PHPMailer

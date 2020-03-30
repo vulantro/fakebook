@@ -1,0 +1,86 @@
+{
+    "name": "graze/dal",
+    "description": "Data Access Layer",
+    "keywords": [
+        "abstraction",
+        "access",
+        "active record",
+        "activerecord",
+        "connection",
+        "data",
+        "data mapper",
+        "database",
+        "datamapper",
+        "dal",
+        "dao",
+        "db",
+        "dbal",
+        "mapper",
+        "orm",
+        "persist",
+        "persistance",
+        "record",
+        "graze"
+    ],
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Public contributors",
+            "homepage": "https://github.com/graze/dal/graphs/contributors",
+            "role": "Community"
+        },
+        {
+            "name": "Andrew Lawson",
+            "homepage": "http://adlawson.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Will Pillar",
+            "email": "will.pillar@graze.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Graze Developers",
+            "email": "developers@graze.com",
+            "homepage": "https://www.graze.com",
+            "role": "Development Team"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/graze/dal/issues"
+    },
+    "autoload": {
+        "psr-4": {
+            "Graze\\Dal\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Graze\\Dal\\Test\\": "tests/src/",
+            "Graze\\Dal\\Test\\Unit\\": "tests/src/unit"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0",
+        "doctrine/common": "~2.4",
+        "zendframework/zend-stdlib": "~2.3"
+    },
+    "require-dev": {
+        "adlawson/timezone": "~1.0",
+        "mockery/mockery": "~0.9",
+        "phpunit/phpunit": "~4.0",
+        "doctrine/orm": "~2.4",
+        "illuminate/database": "5.0",
+        "ocramius/generated-hydrator": "~1.0",
+        "ocramius/proxy-manager": "~1.0",
+        "symfony/var-dumper": "^2.6"
+    },
+    "suggest": {
+        "doctrine/orm": "Required when using the DoctrineOrmAdapter",
+        "illuminate/database": "Required when using the EloquentOrmAdapter",
+        "ocramius/generated-hydrator": "Required when using ActiveRecordAdapter (EloquentOrm)",
+        "ocramius/proxy-manager": "Required when using ActiveRecordAdapter (EloquentOrm)",
+        "zendframework/zend-stdlib": "Required when using ActiveRecordAdapter (EloquentOrm)"
+    }
+}

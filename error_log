@@ -1,0 +1,246 @@
+[13-Mar-2020 15:42:09 Europe/Budapest] PHP Warning:  require(path/to/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/arsenal1/public_html/fakebook/config.php on line 6
+[13-Mar-2020 15:42:09 Europe/Budapest] PHP Fatal error:  require(): Failed opening required 'path/to/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/arsenal1/public_html/fakebook/config.php on line 6
+[13-Mar-2020 15:42:11 Europe/Budapest] PHP Warning:  require(path/to/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/arsenal1/public_html/fakebook/config.php on line 6
+[13-Mar-2020 15:42:11 Europe/Budapest] PHP Fatal error:  require(): Failed opening required 'path/to/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/arsenal1/public_html/fakebook/config.php on line 6
+[13-Mar-2020 15:42:18 Europe/Budapest] PHP Warning:  require(path/to/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/arsenal1/public_html/fakebook/config.php on line 6
+[13-Mar-2020 15:42:18 Europe/Budapest] PHP Fatal error:  require(): Failed opening required 'path/to/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/arsenal1/public_html/fakebook/config.php on line 6
+[13-Mar-2020 15:42:43 Europe/Budapest] PHP Warning:  require(path/to/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/arsenal1/public_html/fakebook/config.php on line 6
+[13-Mar-2020 15:42:43 Europe/Budapest] PHP Fatal error:  require(): Failed opening required 'path/to/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/arsenal1/public_html/fakebook/config.php on line 6
+[13-Mar-2020 15:42:44 Europe/Budapest] PHP Warning:  require(path/to/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/arsenal1/public_html/fakebook/config.php on line 6
+[13-Mar-2020 15:42:44 Europe/Budapest] PHP Fatal error:  require(): Failed opening required 'path/to/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/arsenal1/public_html/fakebook/config.php on line 6
+[13-Mar-2020 15:42:44 Europe/Budapest] PHP Warning:  require(path/to/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/arsenal1/public_html/fakebook/config.php on line 6
+[13-Mar-2020 15:42:44 Europe/Budapest] PHP Fatal error:  require(): Failed opening required 'path/to/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/arsenal1/public_html/fakebook/config.php on line 6
+[13-Mar-2020 15:42:44 Europe/Budapest] PHP Warning:  require(path/to/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/arsenal1/public_html/fakebook/config.php on line 6
+[13-Mar-2020 15:42:44 Europe/Budapest] PHP Fatal error:  require(): Failed opening required 'path/to/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/arsenal1/public_html/fakebook/config.php on line 6
+[13-Mar-2020 15:42:44 Europe/Budapest] PHP Warning:  require(path/to/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/arsenal1/public_html/fakebook/config.php on line 6
+[13-Mar-2020 15:42:44 Europe/Budapest] PHP Fatal error:  require(): Failed opening required 'path/to/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/arsenal1/public_html/fakebook/config.php on line 6
+[13-Mar-2020 15:42:44 Europe/Budapest] PHP Warning:  require(path/to/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/arsenal1/public_html/fakebook/config.php on line 6
+[13-Mar-2020 15:42:44 Europe/Budapest] PHP Fatal error:  require(): Failed opening required 'path/to/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/arsenal1/public_html/fakebook/config.php on line 6
+[13-Mar-2020 15:42:45 Europe/Budapest] PHP Warning:  require(path/to/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/arsenal1/public_html/fakebook/config.php on line 6
+[13-Mar-2020 15:42:45 Europe/Budapest] PHP Fatal error:  require(): Failed opening required 'path/to/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/arsenal1/public_html/fakebook/config.php on line 6
+[13-Mar-2020 15:42:56 Europe/Budapest] PHP Warning:  require(path/to/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/arsenal1/public_html/fakebook/config.php on line 6
+[13-Mar-2020 15:42:56 Europe/Budapest] PHP Fatal error:  require(): Failed opening required 'path/to/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/arsenal1/public_html/fakebook/config.php on line 6
+[13-Mar-2020 15:43:09 Europe/Budapest] PHP Warning:  require(path/to/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/arsenal1/public_html/fakebook/config.php on line 7
+[13-Mar-2020 15:43:09 Europe/Budapest] PHP Fatal error:  require(): Failed opening required 'path/to/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/arsenal1/public_html/fakebook/config.php on line 7
+[13-Mar-2020 15:43:10 Europe/Budapest] PHP Warning:  require(path/to/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/arsenal1/public_html/fakebook/config.php on line 7
+[13-Mar-2020 15:43:10 Europe/Budapest] PHP Fatal error:  require(): Failed opening required 'path/to/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/arsenal1/public_html/fakebook/config.php on line 7
+[13-Mar-2020 15:43:10 Europe/Budapest] PHP Warning:  require(path/to/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/arsenal1/public_html/fakebook/config.php on line 7
+[13-Mar-2020 15:43:10 Europe/Budapest] PHP Fatal error:  require(): Failed opening required 'path/to/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/arsenal1/public_html/fakebook/config.php on line 7
+[13-Mar-2020 15:44:33 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/arsenal1/public_html/fakebook/invite.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/arsenal1/public_html/fakebook/invite.php on line 10
+[13-Mar-2020 15:47:49 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/arsenal1/public_html/fakebook/invite.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/arsenal1/public_html/fakebook/invite.php on line 10
+[13-Mar-2020 15:50:52 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/arsenal1/public_html/fakebook/invite.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/arsenal1/public_html/fakebook/invite.php on line 10
+[13-Mar-2020 15:51:25 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/arsenal1/public_html/fakebook/invite.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/arsenal1/public_html/fakebook/invite.php on line 10
+[13-Mar-2020 16:16:28 Europe/Budapest] PHP Warning:  require(gvendor/autoload.php): failed to open stream: No such file or directory in /home/arsenal1/public_html/fakebook/config.php on line 5
+[13-Mar-2020 16:16:28 Europe/Budapest] PHP Fatal error:  require(): Failed opening required 'gvendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/arsenal1/public_html/fakebook/config.php on line 5
+[13-Mar-2020 16:16:28 Europe/Budapest] PHP Warning:  require(gvendor/autoload.php): failed to open stream: No such file or directory in /home/arsenal1/public_html/fakebook/config.php on line 5
+[13-Mar-2020 16:16:28 Europe/Budapest] PHP Fatal error:  require(): Failed opening required 'gvendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/arsenal1/public_html/fakebook/config.php on line 5
+[13-Mar-2020 16:16:28 Europe/Budapest] PHP Warning:  require(gvendor/autoload.php): failed to open stream: No such file or directory in /home/arsenal1/public_html/fakebook/config.php on line 5
+[13-Mar-2020 16:16:28 Europe/Budapest] PHP Fatal error:  require(): Failed opening required 'gvendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/arsenal1/public_html/fakebook/config.php on line 5
+[13-Mar-2020 16:16:29 Europe/Budapest] PHP Warning:  require(gvendor/autoload.php): failed to open stream: No such file or directory in /home/arsenal1/public_html/fakebook/config.php on line 5
+[13-Mar-2020 16:16:29 Europe/Budapest] PHP Fatal error:  require(): Failed opening required 'gvendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/arsenal1/public_html/fakebook/config.php on line 5
+[13-Mar-2020 16:16:42 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/arsenal1/public_html/fakebook/invite.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/arsenal1/public_html/fakebook/invite.php on line 9
+[13-Mar-2020 16:20:55 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/arsenal1/public_html/fakebook/invite.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/arsenal1/public_html/fakebook/invite.php on line 15
+[13-Mar-2020 16:46:34 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'QRCode' not found in /home/arsenal1/public_html/fakebook/invite.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/arsenal1/public_html/fakebook/invite.php on line 31
+[13-Mar-2020 17:12:02 Europe/Budapest] PHP Notice:  Undefined variable: date in /home/arsenal1/public_html/fakebook/invite.php on line 25
+[13-Mar-2020 17:12:02 Europe/Budapest] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/arsenal1/public_html/fakebook/invite.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/arsenal1/public_html/fakebook/invite.php on line 25
+[13-Mar-2020 17:40:57 Europe/Budapest] PHP Parse error:  syntax error, unexpected '/' in /home/arsenal1/public_html/fakebook/invite.php on line 35
+[13-Mar-2020 17:41:14 Europe/Budapest] PHP Parse error:  syntax error, unexpected '/' in /home/arsenal1/public_html/fakebook/invite.php on line 35
+[13-Mar-2020 17:54:24 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method Delight\Db\PdoDsn::select() in /home/arsenal1/public_html/fakebook/register.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/arsenal1/public_html/fakebook/register.php on line 4
+[13-Mar-2020 17:54:59 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method Delight\Db\PdoDsn::select() in /home/arsenal1/public_html/fakebook/register.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/arsenal1/public_html/fakebook/register.php on line 4
+[13-Mar-2020 17:59:48 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method Delight\Db\PdoDsn::getServerInfo() in /home/arsenal1/public_html/fakebook/config.php:23
+Stack trace:
+#0 /home/arsenal1/public_html/fakebook/register.php(3): require_once()
+#1 {main}
+  thrown in /home/arsenal1/public_html/fakebook/config.php on line 23
+[13-Mar-2020 17:59:48 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method Delight\Db\PdoDsn::getServerInfo() in /home/arsenal1/public_html/fakebook/config.php:23
+Stack trace:
+#0 /home/arsenal1/public_html/fakebook/index.php(3): require_once()
+#1 {main}
+  thrown in /home/arsenal1/public_html/fakebook/config.php on line 23
+[13-Mar-2020 17:59:49 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method Delight\Db\PdoDsn::getServerInfo() in /home/arsenal1/public_html/fakebook/config.php:23
+Stack trace:
+#0 /home/arsenal1/public_html/fakebook/register.php(3): require_once()
+#1 {main}
+  thrown in /home/arsenal1/public_html/fakebook/config.php on line 23
+[13-Mar-2020 17:59:49 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method Delight\Db\PdoDsn::getServerInfo() in /home/arsenal1/public_html/fakebook/config.php:23
+Stack trace:
+#0 /home/arsenal1/public_html/fakebook/index.php(3): require_once()
+#1 {main}
+  thrown in /home/arsenal1/public_html/fakebook/config.php on line 23
+[13-Mar-2020 18:21:32 Europe/Budapest] PHP Parse error:  syntax error, unexpected end of file in /home/arsenal1/public_html/fakebook/register.php on line 123
+[13-Mar-2020 18:25:00 Europe/Budapest] PHP Notice:  Undefined index: repeat in /home/arsenal1/public_html/fakebook/register.php on line 10
+[13-Mar-2020 18:46:40 Europe/Budapest] PHP Notice:  Undefined variable: POST in /home/arsenal1/public_html/fakebook/login.php on line 7
+[13-Mar-2020 18:46:40 Europe/Budapest] PHP Fatal error:  Uncaught Delight\Db\Throwable\SyntaxError: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@gmail.com' at line 1 in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php:76
+Stack trace:
+#0 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(575): Delight\Db\ErrorHandler::rethrow(Object(PDOException))
+#1 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(121): Delight\Db\PdoDatabase->selectInternal(Object(Closure), 'select users_id...', NULL)
+#2 /home/arsenal1/public_html/fakebook/login.php(8): Delight\Db\PdoDatabase->select('select users_id...')
+#3 {main}
+  thrown in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php on line 76
+[13-Mar-2020 18:47:01 Europe/Budapest] PHP Fatal error:  Uncaught Delight\Db\Throwable\SyntaxError: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@gmail.com' at line 1 in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php:76
+Stack trace:
+#0 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(575): Delight\Db\ErrorHandler::rethrow(Object(PDOException))
+#1 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(121): Delight\Db\PdoDatabase->selectInternal(Object(Closure), 'select users_id...', NULL)
+#2 /home/arsenal1/public_html/fakebook/login.php(8): Delight\Db\PdoDatabase->select('select users_id...')
+#3 {main}
+  thrown in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php on line 76
+[13-Mar-2020 18:48:07 Europe/Budapest] PHP Fatal error:  Uncaught Delight\Db\Throwable\SyntaxError: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@gmail.com' at line 1 in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php:76
+Stack trace:
+#0 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(575): Delight\Db\ErrorHandler::rethrow(Object(PDOException))
+#1 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(121): Delight\Db\PdoDatabase->selectInternal(Object(Closure), 'select user_id ...', NULL)
+#2 /home/arsenal1/public_html/fakebook/login.php(8): Delight\Db\PdoDatabase->select('select user_id ...')
+#3 {main}
+  thrown in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php on line 76
+[13-Mar-2020 18:51:25 Europe/Budapest] PHP Fatal error:  Uncaught Delight\Db\Throwable\SyntaxError: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<?=md5(123) ?> and email=<?=szb9960@gmail.com?>' at line 1 in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php:76
+Stack trace:
+#0 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(575): Delight\Db\ErrorHandler::rethrow(Object(PDOException))
+#1 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(121): Delight\Db\PdoDatabase->selectInternal(Object(Closure), 'SELECT user_id ...', NULL)
+#2 /home/arsenal1/public_html/fakebook/login.php(8): Delight\Db\PdoDatabase->select('SELECT user_id ...')
+#3 {main}
+  thrown in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php on line 76
+[13-Mar-2020 18:52:58 Europe/Budapest] PHP Fatal error:  Uncaught Delight\Db\Throwable\SyntaxError: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@gmail.com' at line 1 in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php:76
+Stack trace:
+#0 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(575): Delight\Db\ErrorHandler::rethrow(Object(PDOException))
+#1 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(121): Delight\Db\PdoDatabase->selectInternal(Object(Closure), 'SELECT user_id ...', NULL)
+#2 /home/arsenal1/public_html/fakebook/login.php(8): Delight\Db\PdoDatabase->select('SELECT user_id ...')
+#3 {main}
+  thrown in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php on line 76
+[13-Mar-2020 18:54:59 Europe/Budapest] PHP Fatal error:  Uncaught Delight\Db\Throwable\SyntaxError: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@gmail.com' at line 1 in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php:76
+Stack trace:
+#0 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(575): Delight\Db\ErrorHandler::rethrow(Object(PDOException))
+#1 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(121): Delight\Db\PdoDatabase->selectInternal(Object(Closure), 'SELECT user_id ...', NULL)
+#2 /home/arsenal1/public_html/fakebook/login.php(8): Delight\Db\PdoDatabase->select('SELECT user_id ...')
+#3 {main}
+  thrown in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php on line 76
+[13-Mar-2020 18:55:36 Europe/Budapest] PHP Fatal error:  Uncaught Delight\Db\Throwable\SyntaxError: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@gmail.com' at line 1 in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php:76
+Stack trace:
+#0 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(575): Delight\Db\ErrorHandler::rethrow(Object(PDOException))
+#1 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(121): Delight\Db\PdoDatabase->selectInternal(Object(Closure), 'SELECT user_id ...', NULL)
+#2 /home/arsenal1/public_html/fakebook/login.php(8): Delight\Db\PdoDatabase->select('SELECT user_id ...')
+#3 {main}
+  thrown in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php on line 76
+[13-Mar-2020 19:00:46 Europe/Budapest] PHP Fatal error:  Uncaught Delight\Db\Throwable\SyntaxError: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@gmail.com' at line 1 in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php:76
+Stack trace:
+#0 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(575): Delight\Db\ErrorHandler::rethrow(Object(PDOException))
+#1 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(121): Delight\Db\PdoDatabase->selectInternal(Object(Closure), 'SELECT user_id ...', NULL)
+#2 /home/arsenal1/public_html/fakebook/login.php(8): Delight\Db\PdoDatabase->select('SELECT user_id ...')
+#3 {main}
+  thrown in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php on line 76
+[13-Mar-2020 19:01:15 Europe/Budapest] PHP Fatal error:  Uncaught Delight\Db\Throwable\UnknownColumnError: SQLSTATE[42S22]: Column not found: 1054 Unknown column '202cb962ac59075b964b07152d234b70' in 'where clause' in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php:73
+Stack trace:
+#0 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(575): Delight\Db\ErrorHandler::rethrow(Object(PDOException))
+#1 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(121): Delight\Db\PdoDatabase->selectInternal(Object(Closure), 'SELECT user_id ...', NULL)
+#2 /home/arsenal1/public_html/fakebook/login.php(8): Delight\Db\PdoDatabase->select('SELECT user_id ...')
+#3 {main}
+  thrown in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php on line 73
+[13-Mar-2020 19:01:35 Europe/Budapest] PHP Notice:  A session had already been started - ignoring session_start() in /home/arsenal1/public_html/fakebook/login.php on line 16
+[13-Mar-2020 19:04:34 Europe/Budapest] PHP Notice:  A session had already been started - ignoring session_start() in /home/arsenal1/public_html/fakebook/login.php on line 16
+[13-Mar-2020 19:11:26 Europe/Budapest] PHP Fatal error:  Uncaught Delight\Db\Throwable\IntegrityConstraintViolationException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php:66
+Stack trace:
+#0 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(269): Delight\Db\ErrorHandler::rethrow(Object(PDOException))
+#1 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(168): Delight\Db\PdoDatabase->exec('INSERT INTO `us...', Array)
+#2 /home/arsenal1/public_html/fakebook/register.php(21): Delight\Db\PdoDatabase->insert('`users`', Array)
+#3 {main}
+  thrown in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php on line 66
+[13-Mar-2020 22:34:50 Europe/Budapest] PHP Notice:  Undefined index: user_id in /home/arsenal1/public_html/fakebook/invite.php on line 15
+[13-Mar-2020 22:34:50 Europe/Budapest] PHP Fatal error:  Uncaught Delight\Db\Throwable\IntegrityConstraintViolationException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php:66
+Stack trace:
+#0 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(269): Delight\Db\ErrorHandler::rethrow(Object(PDOException))
+#1 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(168): Delight\Db\PdoDatabase->exec('INSERT INTO `in...', Array)
+#2 /home/arsenal1/public_html/fakebook/invite.php(17): Delight\Db\PdoDatabase->insert('`invitations`', Array)
+#3 {main}
+  thrown in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php on line 66
+[13-Mar-2020 23:27:36 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'QROptions' not found in /home/arsenal1/public_html/fakebook/config.php:11
+Stack trace:
+#0 /home/arsenal1/public_html/fakebook/invite.php(3): require_once()
+#1 {main}
+  thrown in /home/arsenal1/public_html/fakebook/config.php on line 11
+[13-Mar-2020 23:27:37 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'QROptions' not found in /home/arsenal1/public_html/fakebook/config.php:11
+Stack trace:
+#0 /home/arsenal1/public_html/fakebook/index.php(3): require_once()
+#1 {main}
+  thrown in /home/arsenal1/public_html/fakebook/config.php on line 11
+[14-Mar-2020 00:50:02 Europe/Budapest] PHP Warning:  base64_encode() expects parameter 1 to be string, array given in /home/arsenal1/public_html/fakebook/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 3171
+[15-Mar-2020 14:27:47 Europe/Budapest] PHP Notice:  Undefined index: user_id in /home/arsenal1/public_html/fakebook/invite.php on line 13
+[15-Mar-2020 14:27:47 Europe/Budapest] PHP Fatal error:  Uncaught Delight\Db\Throwable\IntegrityConstraintViolationException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php:66
+Stack trace:
+#0 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(269): Delight\Db\ErrorHandler::rethrow(Object(PDOException))
+#1 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(168): Delight\Db\PdoDatabase->exec('INSERT INTO `in...', Array)
+#2 /home/arsenal1/public_html/fakebook/invite.php(15): Delight\Db\PdoDatabase->insert('`invitations`', Array)
+#3 {main}
+  thrown in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php on line 66
+[15-Mar-2020 14:28:28 Europe/Budapest] PHP Fatal error:  Uncaught Delight\Db\Throwable\IntegrityConstraintViolationException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php:66
+Stack trace:
+#0 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(269): Delight\Db\ErrorHandler::rethrow(Object(PDOException))
+#1 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(168): Delight\Db\PdoDatabase->exec('INSERT INTO `in...', Array)
+#2 /home/arsenal1/public_html/fakebook/invite.php(15): Delight\Db\PdoDatabase->insert('`invitations`', Array)
+#3 {main}
+  thrown in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php on line 66
+[15-Mar-2020 14:56:30 Europe/Budapest] PHP Fatal error:  Uncaught Delight\Db\Throwable\IntegrityConstraintViolationException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php:66
+Stack trace:
+#0 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(269): Delight\Db\ErrorHandler::rethrow(Object(PDOException))
+#1 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(168): Delight\Db\PdoDatabase->exec('INSERT INTO `in...', Array)
+#2 /home/arsenal1/public_html/fakebook/invite.php(15): Delight\Db\PdoDatabase->insert('`invitations`', Array)
+#3 {main}
+  thrown in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php on line 66
+[15-Mar-2020 14:56:36 Europe/Budapest] PHP Fatal error:  Uncaught Delight\Db\Throwable\IntegrityConstraintViolationException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php:66
+Stack trace:
+#0 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(269): Delight\Db\ErrorHandler::rethrow(Object(PDOException))
+#1 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(168): Delight\Db\PdoDatabase->exec('INSERT INTO `in...', Array)
+#2 /home/arsenal1/public_html/fakebook/invite.php(15): Delight\Db\PdoDatabase->insert('`invitations`', Array)
+#3 {main}
+  thrown in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php on line 66
+[15-Mar-2020 14:57:04 Europe/Budapest] PHP Fatal error:  Uncaught Delight\Db\Throwable\IntegrityConstraintViolationException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php:66
+Stack trace:
+#0 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(269): Delight\Db\ErrorHandler::rethrow(Object(PDOException))
+#1 /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/PdoDatabase.php(168): Delight\Db\PdoDatabase->exec('INSERT INTO `in...', Array)
+#2 /home/arsenal1/public_html/fakebook/invite.php(15): Delight\Db\PdoDatabase->insert('`invitations`', Array)
+#3 {main}
+  thrown in /home/arsenal1/public_html/fakebook/vendor/delight-im/db/src/ErrorHandler.php on line 66
+[15-Mar-2020 15:09:18 Europe/Budapest] PHP Notice:  Undefined variable: db in /home/arsenal1/public_html/fakebook/register.php on line 6
+[15-Mar-2020 15:09:18 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function select() on null in /home/arsenal1/public_html/fakebook/register.php:6
+Stack trace:
+#0 /home/arsenal1/public_html/fakebook/register.php(22): handleExistingEmail('szb9960@gmail.c...')
+#1 {main}
+  thrown in /home/arsenal1/public_html/fakebook/register.php on line 6
+[24-Mar-2020 18:33:36 Europe/Budapest] PHP Notice:  Undefined variable: email in /home/arsenal1/public_html/fakebook/invite.php on line 6
+[24-Mar-2020 18:33:58 Europe/Budapest] PHP Notice:  Array to string conversion in /home/arsenal1/public_html/fakebook/invite.php on line 10
+[24-Mar-2020 18:34:16 Europe/Budapest] PHP Notice:  Array to string conversion in /home/arsenal1/public_html/fakebook/invite.php on line 10
+[24-Mar-2020 19:12:22 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/arsenal1/public_html/fakebook/php404.php:256
+Stack trace:
+#0 {main}
+  thrown in /home/arsenal1/public_html/fakebook/php404.php on line 256
+[26-Mar-2020 00:21:18 Europe/Budapest] PHP Notice:  Undefined variable: email in /home/arsenal1/public_html/fakebook/login.php on line 8
+[26-Mar-2020 00:21:18 Europe/Budapest] PHP Notice:  Undefined variable: email in /home/arsenal1/public_html/fakebook/login.php on line 12
+[26-Mar-2020 00:21:58 Europe/Budapest] PHP Notice:  Undefined index: email in /home/arsenal1/public_html/fakebook/login.php on line 8
+[26-Mar-2020 00:26:10 Europe/Budapest] PHP Notice:  A session had already been started - ignoring session_start() in /home/arsenal1/public_html/fakebook/login.php on line 18

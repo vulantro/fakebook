@@ -1,0 +1,6 @@
+.vagrant
+composer.lock
+Vagrantfile
+vendor
+tests/report
+temp.php
