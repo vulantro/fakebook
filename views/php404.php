@@ -233,7 +233,7 @@ h4{
         <div class="row">
             <div class="col-md-12 ">
                 <div class="error-text">
-                    <h1 class="error">404 Hiba</h1>
+                    <h1 class="error">404 Ez legyen inkább</h1>
                     <div class="im-sheep">
                         <div class="top">
                             <div class="body"></div>
